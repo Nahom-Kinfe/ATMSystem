@@ -23,6 +23,7 @@ public class ATMAppFX extends Application {
     public void start(Stage stage) {
         this.primaryStage = stage;
         primaryStage.setTitle("ATM System");
+        primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("../ATMIcon.jpg")));
         showWelcomeScreen();
     }
 
