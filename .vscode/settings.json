@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "C:/Users/SKULL/Documents/javafx-sdk-24.0.1/lib/**/*.jar",
+    "C:\\Users\\SKULL\\Documents\\mysql-connector-j-9.2.0",
+    "c:\\Users\\SKULL\\Documents\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0.jar",
+    "c:\\javafx-sdk-24\\lib\\javafx.controls.jar",
+    "c:\\javafx-sdk-24\\lib\\javafx.fxml.jar"
+  ]
+}
+
